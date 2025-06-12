@@ -19,7 +19,7 @@ const describeTemperature = (farenheight) => {
 
 
 const userInput = prompt(
-  "Enter a temperature in farenheight. It will then be coverted to celsius.",
+  "Please enter a temperature in farenheight. It will then be converted to celsius.",
   ""
 );
 
